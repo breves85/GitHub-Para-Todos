@@ -7,6 +7,9 @@ Esta es una prueba para hacer llegar a todos, algunos datos sobre cubiertas ecol
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/8kiO3nsNnX8" frameborder="0" allowfullscreen></iframe>
 
+|cubiertas|
+|metal| |madera| |hormigon| |vegetal|
+
 
 
 
